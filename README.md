@@ -1,7 +1,7 @@
 # Sketch-Template
 
 
-![Alt Text](https://github.com/Sketch-MMizogaki/Sketch-Template/blob/master/Resouce/mapago.png)  
+![Alt Text](https://github.com/Sketch-MMizogaki/Sketch-Template/blob/master/Resouce/mapogo.png)  
 http://graphicburger.com/mapogo-ui-kit-free-sample/
 
 ![Alt Text](https://github.com/Sketch-MMizogaki/Sketch-Template/blob/master/Resouce/Breezy-UI-Kit-600.jpg)  
