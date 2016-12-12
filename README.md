@@ -1,4 +1,7 @@
-# Sketch-Template
+# Sketch-Template-
+To be displayed in the TableView to make a custom cell using Xib
+I is written comment in Japanese in the Code 
+It is going to briefly write but thank you.
 
 
 ![Alt Text](https://github.com/Sketch-MMizogaki/Sketch-Template/blob/master/Resouce/mapogo.png)  
