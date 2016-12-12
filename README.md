@@ -1,4 +1,4 @@
-# Sketch-Template-UIKit
+# Sketch-iOS-UIKit-Template
 [Sketch.app](http://bohemiancoding.com/sketch/) <br>
 Sketch gives you the power,flexibility and speed you always wanted in a lightweight and easy-to-use package.<br>
 Finally you can focus on what you do best: Design.<br>
