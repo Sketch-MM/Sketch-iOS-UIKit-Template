@@ -1,8 +1,12 @@
 # Sketch-Template-UIKit
-
-
-# [Sketch.app](http://bohemiancoding.com/sketch/) 
-Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.<br>
+[Sketch.app](http://bohemiancoding.com/sketch/) <br>
+Sketch gives you the power,flexibility and speed you always wanted in a lightweight and easy-to-use package.<br>
+Finally you can focus on what you do best: Design.<br>
+<br>
+We used it in iOS application development.<br>
+Introducing Sketch's UIKit.<br>
+Please use it if you like.<br>
+<br>
 
 
 # mapogo-ui-kit
